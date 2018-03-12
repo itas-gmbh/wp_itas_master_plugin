@@ -20,3 +20,23 @@ German Pack
 Cookie Consent
 
 Social Media
+
+
+Warum nicht bei der Konkurrenz:
+DSGVO - Daten in EU
+mehr Flexibiliät / Individualität
+mehr Geschwindigkeit / wenige Seiten pro Server
+Bessere SEO
+Tägliches Backup -> Versionskontrolle
+keine Werbung
+Professionelles Aussehen
+besser skalierbar
+automatic Failover
+Emails kommen an
+Daten / Website gehört Ersteller
+Entwickler unabhängig / viele Developer
+Wartungsvertrag möglich
+Multi User möglich
+unabhängig vom Ersteller-Unternehmen
+
+
