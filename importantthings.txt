@@ -9,6 +9,8 @@ Wordfence (fail2ban)
 HideWP
 SEO
 
+Wartungsmodus
+
 Kontaktformular
 WP-Cache
 Divi
